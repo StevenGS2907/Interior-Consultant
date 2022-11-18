@@ -9,11 +9,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://team-page-project.netlify.app/">
+    <a href="https://interior-consultant-master-1.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/StevenGS2907/MyteamPage/blob/main/css.txt">
+    <a href="https://github.com/StevenGS2907/Interior-Consultant/blob/main/cssjs.txt">
       Solution
     </a>
     <span> | </span>
@@ -28,10 +28,10 @@
 
 ## Overview
 
-![screenshot](https://github.com/StevenGS2907/MyteamPage/blob/main/photoP.PNG)
+![screenshot](https://github.com/StevenGS2907/Interior-Consultant/blob/main/Capture.PNG)
 
 
 ## Contact
 
-- GitHub [StevenGS2907](https://github.com/StevenGS2907/404notfoundchallen.git)
+- GitHub [StevenGS2907](https://github.com/StevenGS2907/Interior-Consultant)
 - Correo [(stevengonzalezsachez20@gmail.com)]
